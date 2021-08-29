@@ -10,7 +10,7 @@ Item ::Item(){
   unitPrice = 0;
   discount = 0;
 }
-Item::Item(int code,float price){
+Item::Item(int Code,float Price){
   ItemCode=code;
   unitPrice=price;
 }
